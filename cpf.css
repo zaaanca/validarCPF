@@ -33,6 +33,13 @@ body{
     cursor: pointer;
 }
 
+.message{
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    display: none;
+}
+
 .message.success{
     background-color: rgb(255, 238, 145);
     color: rgb(255, 187, 0);
